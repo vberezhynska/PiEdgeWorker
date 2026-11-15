@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleDI/ConsoleDI.csproj" Id="f7a2fb5f-5b41-4848-b63c-43019c1bb0f5" />
+  <Project Path="PiEdgeWorker/PiEdgeWorker.csproj" />
+</Solution>
